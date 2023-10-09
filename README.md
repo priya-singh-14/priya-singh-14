@@ -5,10 +5,12 @@
 
 Here are some ideas to get you started:
 
-Resume:
+Priya Singh Resume:
 
 ##Education
-** Northeastern University** Khoury College of Computer Science
+** Northeastern University** Khoury College of Computer Science 
+Computer Science and Design Major
+Class of 2027
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
