@@ -5,6 +5,10 @@
 
 Here are some ideas to get you started:
 
+Resume:
+
+##Education
+** Northeastern University** Khoury College of Computer Science
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
