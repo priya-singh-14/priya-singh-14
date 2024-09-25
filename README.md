@@ -2,10 +2,11 @@
 
 I'm a student at Northeastern University, Khoury College of Computer Science </br>
 
- 🎓 Computer Science and Design Major, Class of 2027</br>
- ☕️ I’m currently exploring intuitive design systems and wireframing </br>
- 🌱 I’m currently learning React development <br>
- ⭐️ Pronouns: she/her
+🎓 Student at Northeastern University, Khoury College of Computer Science
+🖥️ Majoring in Computer Science and Design, Class of 2027
+🌱 Currently exploring intuitive design systems, wireframing, and React development
+🎨 Passionate about blending creativity with tech to build user-friendly, human-centered designs
+☕️ Always learning and improving my skills, one cup of coffee at a time
  
 <img src="https://media.giphy.com/media/zZ93Wx8zrX2XAQVTiy/giphy.gif?cid=790b76110y9wo6369gqmky233jqz0yaioad8l1pwye298ikv&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300" height="auto">
 
